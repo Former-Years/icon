@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=58xinian&show_icons=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=58xinian&show_icons=true&theme=vue-dark)
 
 # icon
 108*108 icon图标
