@@ -3,4 +3,9 @@
 # icon
 108*108 icon图标
 
-根据@Qure/@Orz-3，没有的图标/不太喜欢的图标，会不定时更新上传自用到的图标
+
+透明/无色图标的，请在彩色图标的后面加上 "_mini"
+
+举例：
+彩色的：https://raw.githubusercontent.com/58xinian/icon/master/名字.png
+透明的：https://raw.githubusercontent.com/58xinian/icon/master/名字_mini.png
