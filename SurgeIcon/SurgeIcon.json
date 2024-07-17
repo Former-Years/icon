@@ -1,5 +1,5 @@
 {
-    "name": "Surge Icons",
+    "name": "Surge Icon",
     "description": "Desing By xinian",
     "time": "2024-07-17",
     "icons": [
@@ -42,6 +42,34 @@
         {
             "name": "Ponte",
             "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Ponte.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/YouTube.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Telegram.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Spotify.png"
+        },
+        {
+            "name": "Disney",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Disney.png"
+        },
+        {
+            "name": "ChatGPT",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/ChatGPT.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Netflix.png"
+        },
+        {
+            "name": "Server",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Server.png"
         }
     ]
 }
