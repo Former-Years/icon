@@ -1,0 +1,47 @@
+{
+    "name": "Surge Icon",
+    "description": "Desing By xinian",
+    "time": "2024-07-17",
+    "icons": [
+        {
+            "name": "Proxy",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Proxy.png"
+        },
+        {
+            "name": "Auto",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Auto.png"
+        },
+        {
+            "name": "HongKong",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/HongKong.png"
+        },
+        {
+            "name": "Taiwan",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Taiwan.png"
+        },
+        {
+            "name": "Singapore",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Singapore.png"
+        },
+        {
+            "name": "Japan",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Japan.png"
+        },
+        {
+            "name": "UnitedStates",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/UnitedStates.png"
+        },
+        {
+            "name": "Korea",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Korea.png"
+        },
+        {
+            "name": "Other",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Other.png"
+        },
+        {
+            "name": "Ponte",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Ponte.png"
+        }
+    ]
+}
