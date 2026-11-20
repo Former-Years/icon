@@ -4,6 +4,10 @@
     "time": "2024-07-17",
     "icons": [
         {
+            "name": "Tailscale",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Tailscale.png"
+        },
+        {
             "name": "All",
             "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/All.png"
         },
