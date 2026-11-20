@@ -4,6 +4,10 @@
     "time": "2024-07-17",
     "icons": [
         {
+            "name": "All",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/All.png"
+        },
+        {
             "name": "Proxy",
             "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Proxy.png"
         },
