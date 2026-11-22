@@ -126,6 +126,30 @@
         {
             "name": "WeChat",
             "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/WeChat.png"
+        },
+        {
+            "name": "ServerX",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/ServerX.png"
+        },
+        {
+            "name": "Streaming",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Streaming.png"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/TikTok.png"
+        },
+        {
+            "name": "AItools",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/AItools.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/GitHub.png"
+        },
+        {
+            "name": "Home",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Home.png"
         }
     ]
 }
