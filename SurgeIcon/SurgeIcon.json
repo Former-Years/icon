@@ -90,6 +90,42 @@
         {
             "name": "PayPal",
             "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/PayPal.png"
+        },
+        {
+            "name": "SystemOTA",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/SystemOTA.png"
+        },
+        {
+            "name": "Advertising",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Advertising.png"
+        },
+        {
+            "name": "Privacy",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Privacy.png"
+        },
+        {
+            "name": "Hijacking",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Hijacking.png"
+        },
+        {
+            "name": "Claude",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Claude.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Apple.png"
+        },
+        {
+            "name": "Global",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/Global.png"
+        },
+        {
+            "name": "China",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/China.png"
+        },
+        {
+            "name": "WeChat",
+            "url": "https://raw.githubusercontent.com/Former-Years/icon/master/SurgeIcon/WeChat.png"
         }
     ]
 }
